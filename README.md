@@ -1,5 +1,4 @@
-# javaday-istanbul-workshop
-
+# JJUG Effective Java workshop
 
 1. Builder Patterns when faced with many constructors
 2. Avoid creating unnecessary objects – Performance issues
