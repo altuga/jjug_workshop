@@ -8,6 +8,14 @@ package com.kodcu.question08;
  *
  */
 
+
+/*
+TODOs 
+ 1 - Is this class compatible with SOLID principles ?
+ 2 - Try to refactor according to SOLID principles - 5 mins
+ 3 - Instructor will show the solutions
+ 4 - Refactor and ask questions 
+*/
 class Figure {
     enum Shape { RECTANGLE, CIRCLE };
 

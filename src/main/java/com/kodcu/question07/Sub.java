@@ -5,10 +5,16 @@ package com.kodcu.question07;
  * Altug Bilgin Altintas
  * email : altug@kodcu.com
  * Effective Java
- *
- *
  */
 
+
+/*
+TODOs 
+ 1 - Run the app.
+ 2 - Try to figure the output and try fix it - 5 mins
+ 3 - Instructor will show the solutions
+ 4 - Refactor and ask questions 
+*/
 import java.time.Instant;
 
 public final class Sub extends Super {

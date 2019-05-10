@@ -6,10 +6,14 @@ import java.io.*;
  * Altug Bilgin Altintas
  * email : altug@kodcu.com
  * Effective Java
- *
- *
  */
 
+/*
+TODOs 
+ 1 - Simply the code -  5 mins
+ 2 - Instructor will show the solutions
+ 3 - Refactor and ask questions 
+*/
 public class ReadAndWriteFile {
 
 

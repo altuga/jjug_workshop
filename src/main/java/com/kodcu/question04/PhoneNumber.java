@@ -6,10 +6,16 @@ import java.util.*;
  * Altug Bilgin Altintas
  * email : altug@kodcu.com
  * Effective Java
- *
- *
  */
 
+
+/*
+TODOs 
+ 1 - Run the app.
+ 2 - Any abnormality ? If yes try fix it - 5 mins
+ 3 - Instructor will show the solutions
+ 4 - Refactor and ask questions 
+*/
 public final class PhoneNumber {
     private final short areaCode, prefix, lineNum;
 

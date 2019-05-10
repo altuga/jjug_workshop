@@ -9,6 +9,13 @@ package com.kodcu.question06;
  *
  */
 
+
+/*
+TODOs 
+ 1 - Implement subtract(..) method
+ 2 - Instructor will show the solutions
+ 3 - Refactor and ask questions 
+*/
 public final class Complex {
     private final double re;
     private final double im;
