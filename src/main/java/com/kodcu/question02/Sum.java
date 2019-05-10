@@ -5,9 +5,15 @@ package com.kodcu.question02;
  * Altug Bilgin Altintas
  * email : altug@kodcu.com
  * Effective Java
- *
- *
  */
+
+/*
+TODOs 
+ 1 - Run the appliction
+ 2 - Discussion : Did you feel any abnormality about the performance ?
+ 3 - Instructor will show the solutions
+ 4 - Refactor and ask questions 
+*/
 
 public class Sum {
     private static long sum() {
@@ -19,7 +25,7 @@ public class Sum {
 
     public static void main(String[] args) {
 
-        long start = System.nanoTime();
+        long start = System.nanoTime(); // always use nanotTime for accuracy
         sum();
         long end = System.nanoTime();
         System.out.println((end - start) / 1_000_000. + " ms..");
