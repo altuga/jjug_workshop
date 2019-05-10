@@ -11,10 +11,11 @@ package com.kodcu.question08;
 
 /*
 TODOs 
- 1 - Is this class compatible with SOLID principles ?
- 2 - Try to refactor according to SOLID principles - 5 mins
- 3 - Instructor will show the solutions
- 4 - Refactor and ask questions 
+ 1 - Calcualte SQUARE's area in the same code  - 5 min
+ 2 - Is this class compatible with SOLID principles ?
+ 3 - Try to refactor according to SOLID principles - 5 mins
+ 4 - Instructor will show the solutions
+ 5 - Refactor and ask questions 
 */
 class Figure {
     enum Shape { RECTANGLE, CIRCLE };
