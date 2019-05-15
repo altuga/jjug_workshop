@@ -13,6 +13,9 @@
 11. The try-with-resources statement
 12. Prefer for-each loops to traditional for loops
 
+
+Presentation : https://docs.google.com/presentation/d/1X4vmyWMHc0O48kU7NFu8xBsIxcSR9cZvUGaF2kPVWHw/edit#slide=id.g56f26ca7cb_0_3
+
 Candy Shop simulation : https://docs.google.com/presentation/d/10aSoMOrl_BodYOLddve7SQa6117kS05WBNB4nZ761qs/edit?usp=sharing
 
 @altugaltintas
