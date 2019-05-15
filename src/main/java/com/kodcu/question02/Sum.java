@@ -14,7 +14,6 @@ TODO
  3 - Instructor will show the solutions
  4 - Refactor and ask questions 
 */
-
 public class Sum {
     private static long sum() {
         Long sum = 0L;
