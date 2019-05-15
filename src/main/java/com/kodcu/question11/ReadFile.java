@@ -13,7 +13,7 @@ import java.io.IOException;
 
 
 /*
-TODOs 
+TODO: 
  1 - Simply the code -  5 mins
  2 - Instructor will show the solutions
  3 - Refactor and ask questions 

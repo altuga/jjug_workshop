@@ -12,7 +12,7 @@ import java.util.List;
  */
 
 /*
-TODOs 
+TODO: 
  1 - Run the app like this ex: java Sort Istanbul Tokyo
  2 - Sort the words according to length() of the String
  3 - Instructor will show the solutions

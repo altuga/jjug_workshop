@@ -11,7 +11,7 @@ package com.kodcu.question06;
 
 
 /*
-TODOs 
+TODO: 
  1 - Implement subtract(..) method
  2 - Instructor will show the solutions
  3 - Refactor and ask questions 

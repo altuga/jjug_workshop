@@ -8,7 +8,7 @@ package com.kodcu.question02;
  */
 
 /*
-TODOs 
+TODO 
  1 - Run the appliction
  2 - Discussion : Did you feel any abnormality about the performance ?
  3 - Instructor will show the solutions
