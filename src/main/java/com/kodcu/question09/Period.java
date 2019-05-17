@@ -4,10 +4,11 @@ import java.util.Date;
 
 /**
  * Altug Bilgin Altintas
- * email : altug@kodcu.com
- * Effective Java
- *
- *
+ * 
+ * Effective Java Workshop
+ * 
+ * Email : altug@kodcu.com
+ * Twitter : @altugaltintas
  */
 
 public final class Period {

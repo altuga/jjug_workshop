@@ -5,9 +5,9 @@ import java.util.*;
 /**
  * Altug Bilgin Altintas
  * email : altug@kodcu.com
+ * Twitter : @altugaltintas
  * Effective Java
  */
-
 
 /*
 TODO: 

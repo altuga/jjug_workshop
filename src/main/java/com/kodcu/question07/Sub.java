@@ -4,6 +4,7 @@ package com.kodcu.question07;
 /**
  * Altug Bilgin Altintas
  * email : altug@kodcu.com
+ * Twitter : @altugaltintas
  * Effective Java
  */
 

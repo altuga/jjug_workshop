@@ -4,8 +4,6 @@ package com.kodcu.question01;
  * Altug Bilgin Altintas
  * email : altug@kodcu.com
  * Effective Java
- *
- * 
  */
 
 /*
