@@ -5,9 +5,11 @@ import java.util.List;
 
 /**
  * Altug Bilgin Altintas
- * email : altug@kodcu.com
+ * 
+ * Effective Java Workshop
+ * 
+ * Email : altug@kodcu.com
  * Twitter : @altugaltintas
- * Effective Java
  */
 
 /*
