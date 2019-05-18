@@ -18,30 +18,33 @@ TODO:
 public class NutritionFacts {
     private final int servingSize ; // must
     private final int servings   ; // must
-    private final int calories ; // optional
-    private final int fat ;  // optional
-    private final int sodium ; // optional
-    private final int carbohydrate = 0; // optional
+    private  int calories ; // optional
+    private  int fat ;  // optional
+    private  int sodium ; // optional
+    private  int carbohydrate = 0; // optional
 
     public NutritionFacts(int servingSize, int servings) {
-       this(servingSize, servings, 0);
-    }
-
-    public NutritionFacts(int servingSize, int servings, int calories) {
-        this(servingSize, servings, calories, 0);
-    }
-
-    public NutritionFacts(int servingSize, int servings, int calories, int fat) {
-       this(servingSize, servings, calories, fat, 0);
-    }
-
-    public NutritionFacts(int servingSize, int servings, int calories, int fat, int sodium) {
         this.servingSize = servingSize;
         this.servings = servings;
+    }
+
+    public void setCalories(int calories) {
         this.calories = calories;
+    }
+
+    public void setFat(int fat) {
         this.fat = fat;
+    }
+
+    public void setSodium(int sodium) {
         this.sodium = sodium;
     }
+
+    public void setCarbohydrate(int carbohydrate) {
+        this.carbohydrate = carbohydrate;
+    }
+
+    
 
     @Override
     public String toString() {
@@ -52,7 +55,11 @@ public class NutritionFacts {
     
 
     public static void main(String[] args) {
-        NutritionFacts nutritionFacts = new NutritionFacts(10, 90, 80, 90);
+        NutritionFacts nutritionFacts = new NutritionFacts(10, 90);
+        nutritionFacts.setCarbohydrate(100);
+        nutritionFacts.setFat(10);
+        
+        nutritionFacts.setFat(11);
         System.out.println(nutritionFacts);
     }
     
