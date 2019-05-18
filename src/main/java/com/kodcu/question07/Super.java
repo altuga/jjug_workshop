@@ -8,11 +8,10 @@ package com.kodcu.question07;
  * Effective Java
  */
 
-public class Super {
+public abstract class Super {
     // Broken - constructor invokes an overridable method
     public Super() {
-        overrideMe();
+       // overrideMe();
     }
-    public void overrideMe() {
-    }
+    public abstract void overrideMe() ;
 }

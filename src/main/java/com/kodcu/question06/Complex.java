@@ -3,11 +3,9 @@ package com.kodcu.question06;
 
 /**
  * Altug Bilgin Altintas
- * 
- * Effective Java Workshop
- * 
- * Email : altug@kodcu.com
+ * email : altug@kodcu.com
  * Twitter : @altugaltintas
+ * Effective Java
  */
 
 

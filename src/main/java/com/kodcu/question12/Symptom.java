@@ -29,10 +29,12 @@ public class Symptom {
     public static void main(String[] args) {
 
 
+        for(Card.Suit suit : suits) {
+             for(Card.Rank rank : ranks) {
+                 System.out.println(" ...");
+             }
+        }
 
-        for (Iterator<Card.Suit> i = suits.iterator(); i.hasNext(); )
-            for (Iterator<Card.Rank> j = ranks.iterator(); j.hasNext(); ) {
-                deck.add(new Card(i.next(), j.next()));
-            }
+        
     }
 }
